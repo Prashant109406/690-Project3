@@ -21,9 +21,7 @@ Although the Criterion Collection is supposed to represent the greatest films ev
 The organization of the films on the Criterion Channel website is not perfect, so there are some minor errors in the data that I scraped that probably need to be manually corrected.
 
 ## Project Info
-<pre>
-Contributors : <a href=https://github.com/aarondzt>Aaron Tan</a>
-</pre>
+
 
 <pre>
 Languages    : Python
